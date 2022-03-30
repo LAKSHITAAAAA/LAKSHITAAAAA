@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding in different languages 
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on python and c++ projects
-- 📫 How to reach me email me on lakshitamukati210049@acropolis.in OR call me at 9300818614
+- 📫 How to reach me email me on lakshitamukati210049@acropolis.in 
 
 <!---
 LAKSHITAAAAA/LAKSHITAAAAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
